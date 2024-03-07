@@ -1,0 +1,24 @@
+{
+  "name": "tea-demonst-project-ggg",
+  "version": "1.0.0",
+  "description": "Demonstration App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abanara/tea-demonst-project.git"
+  },
+  "dependencies": {
+    "tea-demonst-project-ggg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abanara/tea-demonst-project/issues"
+  },
+  "homepage": "https://github.com/Abanara/tea-demonst-project#readme"
+}
